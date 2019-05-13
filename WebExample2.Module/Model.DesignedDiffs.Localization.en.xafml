@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Views>
+    <DetailView Id="Contact_DetailView">
+      <Layout>
+        <LayoutGroup Id="Main">
+          <LayoutGroup Id="SimpleEditors">
+            <LayoutGroup Id="Auto76e271fe-2f45-4e86-8e70-761936190548" Caption="">
+              <LayoutGroup Id="Auto3d173f3b-e982-4862-bde2-e072b61f91ca" Caption="" />
+              <LayoutGroup Id="Auto29ca2a21-c380-475f-975b-f2e8969a5b05" Caption="" />
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+</Application>
